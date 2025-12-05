@@ -1,0 +1,1262 @@
+﻿[
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o maior país do mundo em extensão territorial?",
+    "RespostaCorreta": "Rússia",
+    "Alternativas": [ "Canadá", "China", "Estados Unidos" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o rio mais longo do mundo?",
+    "RespostaCorreta": "Rio Nilo",
+    "Alternativas": [ "Rio Amazonas", "Rio Yangtzé", "Rio Mississippi" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o deserto mais seco do mundo?",
+    "RespostaCorreta": "Deserto do Atacama",
+    "Alternativas": [ "Saara", "Kalahari", "Gobi" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o maior oceano da Terra?",
+    "RespostaCorreta": "Oceano Pacífico",
+    "Alternativas": [ "Oceano Atlântico", "Oceano Índico", "Oceano Ártico" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual país possui a maior população do mundo?",
+    "RespostaCorreta": "Índia",
+    "Alternativas": [ "China", "Estados Unidos", "Indonésia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é a capital da Austrália?",
+    "RespostaCorreta": "Camberra",
+    "Alternativas": [ "Sydney", "Melbourne", "Brisbane" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "O Monte Everest está localizado em qual cordilheira?",
+    "RespostaCorreta": "Himalaia",
+    "Alternativas": [ "Andes", "Rochosas", "Alpes" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o menor país do mundo em área?",
+    "RespostaCorreta": "Vaticano",
+    "Alternativas": [ "Mônaco", "Nauru", "San Marino" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o maior arquipélago do mundo?",
+    "RespostaCorreta": "Indonésia",
+    "Alternativas": [ "Filipinas", "Japão", "Nova Zelândia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o ponto mais profundo dos oceanos?",
+    "RespostaCorreta": "Fossa das Marianas",
+    "Alternativas": [ "Dorsal Mesoatlântica", "Fossa de Tonga", "Fossa do Java" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o maior continente do mundo?",
+    "RespostaCorreta": "Ásia",
+    "Alternativas": [ "África", "América", "Europa" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o país com o maior número de ilhas?",
+    "RespostaCorreta": "Suécia",
+    "Alternativas": [ "Indonésia", "Filipinas", "Japão" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual país é conhecido como a 'Terra do Sol Nascente'?",
+    "RespostaCorreta": "Japão",
+    "Alternativas": [ "China", "Coreia do Sul", "Tailândia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Onde está localizado o Deserto do Saara?",
+    "RespostaCorreta": "África",
+    "Alternativas": [ "Ásia", "América do Norte", "Oceania" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual oceano banha a costa leste do Brasil?",
+    "RespostaCorreta": "Oceano Atlântico",
+    "Alternativas": [ "Oceano Pacífico", "Oceano Índico", "Oceano Glacial Ártico" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual país possui o maior número de fusos horários?",
+    "RespostaCorreta": "França",
+    "Alternativas": [ "Rússia", "Estados Unidos", "China" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual cidade é considerada a mais populosa do mundo?",
+    "RespostaCorreta": "Tóquio",
+    "Alternativas": [ "Nova Iorque", "Xangai", "Mumbai" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Em qual continente fica a Cordilheira dos Andes?",
+    "RespostaCorreta": "América do Sul",
+    "Alternativas": [ "Europa", "Ásia", "África" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o maior lago de água doce do mundo em volume?",
+    "RespostaCorreta": "Lago Baikal",
+    "Alternativas": [ "Lago Vitória", "Lago Superior", "Lago Tanganica" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual país não possui saída para o mar?",
+    "RespostaCorreta": "Bolívia",
+    "Alternativas": [ "Chile", "Peru", "Equador" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é a capital do Canadá?",
+    "RespostaCorreta": "Ottawa",
+    "Alternativas": [ "Toronto", "Vancouver", "Montreal" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Em que país está localizada a Grande Muralha?",
+    "RespostaCorreta": "China",
+    "Alternativas": [ "Japão", "Coreia do Sul", "Mongólia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o maior rio do Brasil?",
+    "RespostaCorreta": "Rio Amazonas",
+    "Alternativas": [ "Rio São Francisco", "Rio Tocantins", "Rio Madeira" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual desses países é transcontinental?",
+    "RespostaCorreta": "Rússia",
+    "Alternativas": [ "México", "Egito", "Índia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é a capital da Argentina?",
+    "RespostaCorreta": "Buenos Aires",
+    "Alternativas": [ "Rosário", "Mendoza", "Córdoba" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual continente é o berço da humanidade?",
+    "RespostaCorreta": "África",
+    "Alternativas": [ "Europa", "Ásia", "Oceania" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o país mais estreito do mundo em largura?",
+    "RespostaCorreta": "Chile",
+    "Alternativas": [ "Peru", "Argentina", "Noruega" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o maior país da América do Sul?",
+    "RespostaCorreta": "Brasil",
+    "Alternativas": [ "Argentina", "Colômbia", "Venezuela" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "Qual é o clima predominante na Região Norte do Brasil?",
+    "RespostaCorreta": "Equatorial",
+    "Alternativas": [ "Tropical", "Semiárido", "Subtropical" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Geografia",
+    "PerguntaTexto": "O Monte Kilimanjaro está localizado em qual país?",
+    "RespostaCorreta": "Tanzânia",
+    "Alternativas": [ "Quênia", "Etiópia", "Uganda" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Em que ano ocorreu a queda do Império Romano do Ocidente?",
+    "RespostaCorreta": "476 d.C.",
+    "Alternativas": [ "410 d.C.", "1215 d.C.", "632 d.C." ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem foi o primeiro imperador de Roma?",
+    "RespostaCorreta": "Augusto",
+    "Alternativas": [ "Júlio César", "Nero", "Tibério" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual civilização construiu as pirâmides de Gizé?",
+    "RespostaCorreta": "Egípcia",
+    "Alternativas": [ "Maya", "Inca", "Suméria" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual evento marcou o início da Idade Moderna?",
+    "RespostaCorreta": "Queda de Constantinopla",
+    "Alternativas": [ "Descobrimento da América", "Revolução Francesa", "Reforma Protestante" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem liderou a independência da Bolívia e tem seu nome no país?",
+    "RespostaCorreta": "Simón Bolívar",
+    "Alternativas": [ "José de San Martín", "Francisco Miranda", "Bernardo O'Higgins" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "A Primeira Guerra Mundial começou em qual ano?",
+    "RespostaCorreta": "1914",
+    "Alternativas": [ "1912", "1918", "1920" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem foi o líder da Revolução Russa de 1917?",
+    "RespostaCorreta": "Vladimir Lenin",
+    "Alternativas": [ "Stalin", "Trotsky", "Kerensky" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual país foi o berço da democracia?",
+    "RespostaCorreta": "Grécia",
+    "Alternativas": [ "Roma", "China", "Egito" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem realizou a primeira viagem de circum-navegação ao redor do mundo?",
+    "RespostaCorreta": "Fernão de Magalhães",
+    "Alternativas": [ "Cristóvão Colombo", "Vasco da Gama", "James Cook" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual revolução consolidou os direitos do cidadão e enfraqueceu a monarquia absoluta?",
+    "RespostaCorreta": "Revolução Francesa",
+    "Alternativas": [ "Revolução Americana", "Revolução Haitiana", "Revolução Russa" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem foi o primeiro presidente dos Estados Unidos?",
+    "RespostaCorreta": "George Washington",
+    "Alternativas": [ "Abraham Lincoln", "John Adams", "Thomas Jefferson" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "A escravidão no Brasil foi abolida em qual ano?",
+    "RespostaCorreta": "1888",
+    "Alternativas": [ "1872", "1890", "1885" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem pintou o famoso quadro 'Guernica' em protesto à Guerra Civil Espanhola?",
+    "RespostaCorreta": "Pablo Picasso",
+    "Alternativas": [ "Dalí", "Matisse", "Monet" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "A civilização mesopotâmica se desenvolveu entre quais rios?",
+    "RespostaCorreta": "Tigre e Eufrates",
+    "Alternativas": [ "Nilo e Jordão", "Indo e Ganges", "Amarelo e Azul" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual tratado deu fim à Primeira Guerra Mundial?",
+    "RespostaCorreta": "Tratado de Versalhes",
+    "Alternativas": [ "Tratado de Viena", "Tratado de Paris", "Tratado de Tordesilhas" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem descobriu o Brasil em 1500?",
+    "RespostaCorreta": "Pedro Álvares Cabral",
+    "Alternativas": [ "Vasco da Gama", "Cristóvão Colombo", "Américo Vespúcio" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "A Guerra Fria foi marcada pela rivalidade entre Estados Unidos e qual país?",
+    "RespostaCorreta": "União Soviética",
+    "Alternativas": [ "China", "Alemanha", "Japão" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual renascentista é considerado o pai da ciência moderna?",
+    "RespostaCorreta": "Galileu Galilei",
+    "Alternativas": [ "Da Vinci", "Michelangelo", "Copérnico" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem foi o ditador responsável pelo Holocausto?",
+    "RespostaCorreta": "Adolf Hitler",
+    "Alternativas": [ "Mussolini", "Stalin", "Franco" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual civilização construiu Machu Picchu?",
+    "RespostaCorreta": "Inca",
+    "Alternativas": [ "Maya", "Asteca", "Olmeca" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual documento limitou os poderes do rei na Inglaterra em 1215?",
+    "RespostaCorreta": "Magna Carta",
+    "Alternativas": [ "Bill of Rights", "Habeas Corpus Act", "Petition of Right" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem foi o líder pacifista da independência da Índia?",
+    "RespostaCorreta": "Mahatma Gandhi",
+    "Alternativas": [ "Nehru", "Jinnah", "Patel" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Em qual país surgiu o nazismo?",
+    "RespostaCorreta": "Alemanha",
+    "Alternativas": [ "Áustria", "Itália", "Polônia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Em que ano ocorreu a Revolução Francesa?",
+    "RespostaCorreta": "1789",
+    "Alternativas": [ "1769", "1810", "1804" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual império foi governado por Genghis Khan?",
+    "RespostaCorreta": "Império Mongol",
+    "Alternativas": [ "Império Persa", "Império Otomano", "Império Chinês" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem foi o primeiro homem a pisar na Lua?",
+    "RespostaCorreta": "Neil Armstrong",
+    "Alternativas": [ "Buzz Aldrin", "Yuri Gagarin", "Michael Collins" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual conflito ficou conhecido como a 'Guerra dos Cem Anos'?",
+    "RespostaCorreta": "Conflito entre França e Inglaterra",
+    "Alternativas": [ "Conflito entre Espanha e Portugal", "Conflito entre Roma e Cartago", "Conflito entre Alemanha e França" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Qual civilização antiga desenvolveu a escrita cuneiforme?",
+    "RespostaCorreta": "Suméria",
+    "Alternativas": [ "Egípcia", "Fenícia", "Babilônica" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Em qual país ocorreu a Revolução Industrial?",
+    "RespostaCorreta": "Inglaterra",
+    "Alternativas": [ "França", "Alemanha", "Estados Unidos" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "História",
+    "PerguntaTexto": "Quem foi responsável pela teoria da evolução por seleção natural?",
+    "RespostaCorreta": "Charles Darwin",
+    "Alternativas": [ "Gregor Mendel", "Jean-Baptiste Lamarck", "Galileu Galilei" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual animal é conhecido por dormir até 20 horas por dia?",
+    "RespostaCorreta": "Preguiça",
+    "Alternativas": [ "Canguru", "Panda", "Koala" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual país inventou o sorvete?",
+    "RespostaCorreta": "China",
+    "Alternativas": [ "França", "Itália", "Estados Unidos" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o metal mais leve do mundo?",
+    "RespostaCorreta": "Lítio",
+    "Alternativas": [ "Alumínio", "Magnésio", "Titânio" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Que planeta tem o dia mais longo do Sistema Solar?",
+    "RespostaCorreta": "Vênus",
+    "Alternativas": [ "Júpiter", "Mercúrio", "Netuno" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o único mamífero capaz de voar?",
+    "RespostaCorreta": "Morcego",
+    "Alternativas": [ "Esquilo-voador", "Lêmure", "Coala" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Quanto tempo dura um dia em Marte?",
+    "RespostaCorreta": "24 horas e 37 minutos",
+    "Alternativas": [ "20 horas", "30 horas", "18 horas" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual foi o primeiro videogame da história?",
+    "RespostaCorreta": "Pong",
+    "Alternativas": [ "Space Invaders", "Tetris", "Pac-Man" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o idioma mais falado no mundo?",
+    "RespostaCorreta": "Mandarim",
+    "Alternativas": [ "Inglês", "Espanhol", "Hindi" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o maior organismo vivo da Terra?",
+    "RespostaCorreta": "Um fungo no Oregon",
+    "Alternativas": [ "Baleia-azul", "Sequóia-gigante", "Coral austríaco" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o alimento mais consumido no mundo?",
+    "RespostaCorreta": "Arroz",
+    "Alternativas": [ "Pão", "Batata", "Milho" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o maior deserto do planeta?",
+    "RespostaCorreta": "Antártida",
+    "Alternativas": [ "Saara", "Arábia", "Gobi" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o esporte mais praticado no mundo?",
+    "RespostaCorreta": "Futebol",
+    "Alternativas": [ "Críquete", "Basquete", "Tênis" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual inseto causa mais mortes humanas por ano?",
+    "RespostaCorreta": "Mosquito",
+    "Alternativas": [ "Abelha", "Aranha", "Escorpião" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual planeta tem ventos que ultrapassam 2.000 km/h?",
+    "RespostaCorreta": "Netuno",
+    "Alternativas": [ "Júpiter", "Saturno", "Urano" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o lugar mais profundo dos oceanos?",
+    "RespostaCorreta": "Fossa das Marianas",
+    "Alternativas": [ "Dorsal Mesoatlântica", "Oceano Ártico", "Depressão de Java" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Quantos litros de sangue o corpo humano possui em média?",
+    "RespostaCorreta": "5 litros",
+    "Alternativas": [ "3 litros", "7 litros", "9 litros" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual o único alimento que não estraga?",
+    "RespostaCorreta": "Mel",
+    "Alternativas": [ "Açúcar", "Sal", "Vinagre" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual o país com mais fusos horários?",
+    "RespostaCorreta": "França",
+    "Alternativas": [ "Rússia", "Estados Unidos", "China" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é a maior estrutura já construída pelo ser humano?",
+    "RespostaCorreta": "Muralha da China",
+    "Alternativas": [ "Pirâmide de Quéops", "Burj Khalifa", "Torre de Xangai" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "O que o polvo usa para saborear alimentos?",
+    "RespostaCorreta": "Os tentáculos",
+    "Alternativas": [ "Os olhos", "As brânquias", "A boca" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o maior animal terrestre?",
+    "RespostaCorreta": "Elefante africano",
+    "Alternativas": [ "Girafa", "Rinoceronte", "Hipopótamo" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Quantos ossos tem o corpo humano adulto?",
+    "RespostaCorreta": "206",
+    "Alternativas": [ "201", "210", "197" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Em qual país surgiu o sushi?",
+    "RespostaCorreta": "Japão",
+    "Alternativas": [ "Coreia do Sul", "China", "Tailândia" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "O cérebro humano é composto majoritariamente por qual substância?",
+    "RespostaCorreta": "Gordura",
+    "Alternativas": [ "Água", "Proteína", "Minerais" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual é o idioma oficial mais raro do mundo?",
+    "RespostaCorreta": "Toki Pona",
+    "Alternativas": [ "Esperanto", "Basco", "Frísio" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual elemento químico foi o primeiro a ser criado artificialmente?",
+    "RespostaCorreta": "Tecnécio",
+    "Alternativas": [ "Urânio", "Neônio", "Césio" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual país possui a maior quantidade de vulcões ativos?",
+    "RespostaCorreta": "Indonésia",
+    "Alternativas": [ "Japão", "Chile", "Islândia" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual animal possui três corações?",
+    "RespostaCorreta": "Polvo",
+    "Alternativas": [ "Tubarão", "Arara", "Golfinho" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "Qual o país com a maior produção de café do mundo?",
+    "RespostaCorreta": "Brasil",
+    "Alternativas": [ "Colômbia", "Etiópia", "Vietnã" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Curiosidades",
+    "PerguntaTexto": "O que acontece se você pesar 100 kg na Terra e for para a Lua?",
+    "RespostaCorreta": "Pesaria cerca de 16 kg",
+    "Alternativas": [ "Pesaria 50 kg", "Pesaria 30 kg", "Pesaria o mesmo" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é a molécula responsável por carregar a informação genética?",
+    "RespostaCorreta": "DNA",
+    "Alternativas": [ "RNA", "Proteína", "Lipídio" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é a unidade básica da vida?",
+    "RespostaCorreta": "Célula",
+    "Alternativas": [ "Tecido", "Órgão", "Molécula" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual gás compõe a maior parte da atmosfera terrestre?",
+    "RespostaCorreta": "Nitrogênio",
+    "Alternativas": [ "Oxigênio", "Argônio", "Dióxido de carbono" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é a velocidade da luz no vácuo?",
+    "RespostaCorreta": "299.792.458 m/s",
+    "Alternativas": [ "150.000.000 m/s", "1.000.000 m/s", "30.000.000 m/s" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual planeta é conhecido como o Planeta Vermelho?",
+    "RespostaCorreta": "Marte",
+    "Alternativas": [ "Júpiter", "Vênus", "Mercúrio" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual partícula possui carga negativa?",
+    "RespostaCorreta": "Elétron",
+    "Alternativas": [ "Próton", "Nêutron", "Bóson" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que Albert Einstein desenvolveu em 1905?",
+    "RespostaCorreta": "Teoria da Relatividade Especial",
+    "Alternativas": [ "Teoria da Evolução", "Teoria Celular", "Lei da Gravitação Universal" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que mede a escala Richter?",
+    "RespostaCorreta": "Intensidade de terremotos",
+    "Alternativas": [ "Velocidade dos ventos", "Profundidade dos oceanos", "Radiação solar" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o órgão responsável pelo bombeamento do sangue?",
+    "RespostaCorreta": "Coração",
+    "Alternativas": [ "Fígado", "Pulmões", "Rins" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O núcleo de um átomo é formado por prótons e qual outra partícula?",
+    "RespostaCorreta": "Nêutrons",
+    "Alternativas": [ "Elétrons", "Íons", "Fótons" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o processo pelo qual as plantas produzem seu alimento?",
+    "RespostaCorreta": "Fotossíntese",
+    "Alternativas": [ "Digestão", "Respiração", "Evaporação" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que Isaac Newton descobriu ao observar a queda de uma maçã?",
+    "RespostaCorreta": "Lei da Gravidade",
+    "Alternativas": [ "Espectro da luz", "Lei da inércia", "Movimento circular" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o maior órgão do corpo humano?",
+    "RespostaCorreta": "Pele",
+    "Alternativas": [ "Fígado", "Pulmões", "Intestino" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Como se chama o processo de mudança do estado líquido para gasoso?",
+    "RespostaCorreta": "Evaporação",
+    "Alternativas": [ "Sublimação", "Condensação", "Fusão" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o nome da força que nos mantém presos ao chão?",
+    "RespostaCorreta": "Gravidade",
+    "Alternativas": [ "Inércia", "Atrito", "Pressão" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O Sol é composto principalmente por qual elemento?",
+    "RespostaCorreta": "Hidrogênio",
+    "Alternativas": [ "Hélio", "Carbono", "Oxigênio" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é a galáxia onde está localizado o Sistema Solar?",
+    "RespostaCorreta": "Via Láctea",
+    "Alternativas": [ "Andrômeda", "Sombrero", "Triângulo" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que significa pH?",
+    "RespostaCorreta":"Potencial Hidrogeniônico",
+    "Alternativas": [ "Ponto Hidrostático", "Pressão Humana", "Potencial Hormonal" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o estado físico da água a 0°C?",
+    "RespostaCorreta": "Sólido",
+    "Alternativas": [ "Líquido", "Gasoso", "Plasma" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Que tipo de energia é produzida pelo movimento?",
+    "RespostaCorreta": "Cinética",
+    "Alternativas": [ "Térmica", "Potencial", "Elétrica" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que os animais usam para converter alimentos em energia?",
+    "RespostaCorreta": "Respiração celular",
+    "Alternativas": [ "Fotossíntese", "Fermentação", "Digestão externa" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O átomo é composto principalmente por qual espaço?",
+    "RespostaCorreta": "Vazio",
+    "Alternativas": [ "Prótons", "Moléculas", "Elétrons" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que é a camada de ozônio?",
+    "RespostaCorreta": "Uma camada que filtra a radiação UV",
+    "Alternativas": [ "Uma camada que aquece a Terra", "Uma camada que produz oxigênio", "Uma camada de CO2" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual fenômeno explica a dilatação de metais com o calor?",
+    "RespostaCorreta": "Dilatação térmica",
+    "Alternativas": [ "Fusão", "Ionização", "Eletromagnetismo" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o planeta mais quente do Sistema Solar?",
+    "RespostaCorreta": "Vênus",
+    "Alternativas": [ "Mercúrio", "Marte", "Júpiter" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o nome da teoria que explica a origem do Universo?",
+    "RespostaCorreta": "Big Bang",
+    "Alternativas": [ "Criacionismo", "Evolução", "Teoria das Cordas" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Como se chama o processo pelo qual um sólido passa diretamente ao estado gasoso?",
+    "RespostaCorreta": "Sublimação",
+    "Alternativas": [ "Evaporação", "Fusão", "Condensação" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que é um eclipse solar?",
+    "RespostaCorreta": "Quando a Lua bloqueia a luz do Sol",
+    "Alternativas": [ "Quando a Terra bloqueia o Sol", "Quando o Sol se apaga", "Quando nuvens impedem a luz" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "Qual é o maior planeta do Sistema Solar?",
+    "RespostaCorreta": "Júpiter",
+    "Alternativas": [ "Saturno", "Urano", "Netuno" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Ciência",
+    "PerguntaTexto": "O que mede a unidade 'Ohm'?",
+    "RespostaCorreta": "Resistência elétrica",
+    "Alternativas": [ "Corrente elétrica", "Potência elétrica", "Tensão elétrica" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
+    "RespostaCorreta": "Forrest Gump",
+    "Alternativas": [ "Pulp Fiction", "Um Sonho de Liberdade", "Quatro Casamentos e um Funeral" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Quem interpretou o personagem Jack em Titanic?",
+    "RespostaCorreta": "Leonardo DiCaprio",
+    "Alternativas": [ "Brad Pitt", "Keanu Reeves", "Tom Cruise" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual diretor é responsável pela trilogia O Senhor dos Anéis?",
+    "RespostaCorreta": "Peter Jackson",
+    "Alternativas": [ "James Cameron", "George Lucas", "Steven Spielberg" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Em qual cidade se passa grande parte de Coringa (2019)?",
+    "RespostaCorreta": "Gotham City",
+    "Alternativas": [ "Metrópolis", "Nova York", "Chicago" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual é o nome do robô protagonista de WALL-E?",
+    "RespostaCorreta": "WALL-E",
+    "Alternativas": [ "EVA", "M-O", "R2-D2" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Quem dirigiu Jurassic Park?",
+    "RespostaCorreta": "Steven Spielberg",
+    "Alternativas": [ "Ridley Scott", "James Cameron", "Michael Bay" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual é o nome do vilão principal em Star Wars Episódio IV?",
+    "RespostaCorreta": "Darth Vader",
+    "Alternativas": [ "Darth Maul", "Kylo Ren", "General Grievous" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Quem interpreta o Homem de Ferro no MCU?",
+    "RespostaCorreta": "Robert Downey Jr.",
+    "Alternativas": [ "Chris Evans", "Mark Ruffalo", "Chris Hemsworth" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual filme de terror apresentou o assassino Ghostface?",
+    "RespostaCorreta": "Pânico",
+    "Alternativas": [ "Halloween", "A Hora do Pesadelo", "Sexta-Feira 13" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual animação da Disney se passa no Havaí?",
+    "RespostaCorreta": "Lilo & Stitch",
+    "Alternativas": [ "Moana", "Viva – A Vida é uma Festa", "Valente" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Quem é o compositor responsável pela trilha de Star Wars?",
+    "RespostaCorreta": "John Williams",
+    "Alternativas": [ "Hans Zimmer", "James Horner", "Alan Silvestri" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual filme popularizou a frase 'Eu vejo gente morta'?",
+    "RespostaCorreta": "O Sexto Sentido",
+    "Alternativas": [ "Os Outros", "Invocação do Mal", "Sinais" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Quem interpreta a Mulher-Maravilha nos filmes recentes da DC?",
+    "RespostaCorreta": "Gal Gadot",
+    "Alternativas": [ "Scarlett Johansson", "Brie Larson", "Jennifer Lawrence" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual é o nome do reino onde se passa Pantera Negra?",
+    "RespostaCorreta": "Wakanda",
+    "Alternativas": [ "Genosha", "Sokovia", "Latveria" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Quem dirigiu Avatar (2009)?",
+    "RespostaCorreta": "James Cameron",
+    "Alternativas": [ "Ridley Scott", "Peter Jackson", "Zack Snyder" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual filme conquistou 11 Oscars, igualando o recorde historial?",
+    "RespostaCorreta": "Titanic",
+    "Alternativas": [ "Ben-Hur", "O Senhor dos Anéis: O Retorno do Rei", "Guerra nas Estrelas" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual personagem diz 'Por que tão sério?' em Batman: O Cavaleiro das Trevas?",
+    "RespostaCorreta": "Coringa",
+    "Alternativas": [ "Batman", "Duas-Caras", "Espantalho" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual desses filmes é de Quentin Tarantino?",
+    "RespostaCorreta": "Kill Bill",
+    "Alternativas": [ "Matrix", "O Resgate do Soldado Ryan", "Clube da Luta" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Em qual filme aparece o personagem Woody?",
+    "RespostaCorreta": "Toy Story",
+    "Alternativas": [ "Carros", "Monstros S.A.", "Ratatouille" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Em De Volta para o Futuro, qual é o nome do cientista?",
+    "RespostaCorreta": "Dr. Emmett Brown",
+    "Alternativas": [ "Dr. Stein", "Dr. Malcolm", "Dr. Xenon" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual ator famoso interpretou Coringa em 2008?",
+    "RespostaCorreta": "Heath Ledger",
+    "Alternativas": [ "Joaquin Phoenix", "Jared Leto", "Jim Carrey" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual filme apresenta o personagem Gollum?",
+    "RespostaCorreta": "O Senhor dos Anéis",
+    "Alternativas": [ "Harry Potter", "Nárnia", "Percy Jackson" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "‘Hakuna Matata’ é uma música de qual animação?",
+    "RespostaCorreta": "O Rei Leão",
+    "Alternativas": [ "Tarzan", "Mogli", "Hércules" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual foi o primeiro longa de animação da história?",
+    "RespostaCorreta": "Branca de Neve e os Sete Anões",
+    "Alternativas": [ "Fantasia", "Pinóquio", "Gato Félix" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual atriz protagonizou o filme 'Alien: O Oitavo Passageiro'?",
+    "RespostaCorreta": "Sigourney Weaver",
+    "Alternativas": [ "Meryl Streep", "Linda Hamilton", "Jamie Lee Curtis" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual filme marcou a estreia de Keanu Reeves como Neo?",
+    "RespostaCorreta": "Matrix",
+    "Alternativas": [ "Constantine", "John Wick", "Velocidade Máxima" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual é o nome do dragão em Como Treinar o Seu Dragão?",
+    "RespostaCorreta": "Banguela",
+    "Alternativas": [ "Chamas", "Tempestade", "Sombra" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Em qual filme aparece a frase: 'A força estará com você, sempre'?",
+    "RespostaCorreta": "Star Wars",
+    "Alternativas": [ "Star Trek", "Duna", "Blade Runner" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual desses filmes é do gênero musical?",
+    "RespostaCorreta": "La La Land",
+    "Alternativas": [ "A Origem", "Cisne Negro", "Gladiador" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Cinema",
+    "PerguntaTexto": "Qual foi o primeiro filme do Universo Cinematográfico Marvel?",
+    "RespostaCorreta": "Homem de Ferro",
+    "Alternativas": [ "O Incrível Hulk", "Capitão América", "Thor" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual país sediou a Copa do Mundo de 2014?",
+    "RespostaCorreta": "Brasil",
+    "Alternativas": [ "Alemanha", "África do Sul", "Rússia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quem é conhecido como 'Rei do Futebol'?",
+    "RespostaCorreta": "Pelé",
+    "Alternativas": [ "Maradona", "Cruyff", "Ronaldo Fenômeno" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual jogador de basquete é apelidado de 'King James'?",
+    "RespostaCorreta": "LeBron James",
+    "Alternativas": [ "Stephen Curry", "Kobe Bryant", "Kevin Durant" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Em qual esporte se usa uma prancha e uma onda?",
+    "RespostaCorreta": "Surfe",
+    "Alternativas": [ "Vela", "Stand-up paddle", "Canoagem" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quantos jogadores cada time tem em campo no futebol tradicional?",
+    "RespostaCorreta": "11",
+    "Alternativas": [ "10", "12", "9" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual país é o maior campeão olímpico no vôlei masculino?",
+    "RespostaCorreta": "Brasil",
+    "Alternativas": [ "Itália", "Rússia", "Estados Unidos" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quem venceu o Mundial de Fórmula 1 em 2021?",
+    "RespostaCorreta": "Max Verstappen",
+    "Alternativas": [ "Lewis Hamilton", "Sebastian Vettel", "Valtteri Bottas" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual é o país de origem do judô?",
+    "RespostaCorreta": "Japão",
+    "Alternativas": [ "China", "Coreia do Sul", "Tailândia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quem é o maior artilheiro da história da NBA?",
+    "RespostaCorreta": "LeBron James",
+    "Alternativas": [ "Kareem Abdul-Jabbar", "Michael Jordan", "Karl Malone" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Usain Bolt é especialista em qual modalidade?",
+    "RespostaCorreta": "Atletismo",
+    "Alternativas": [ "Natação", "Ciclismo", "Triatlo" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual seleção venceu a Copa do Mundo de 1998?",
+    "RespostaCorreta": "França",
+    "Alternativas": [ "Brasil", "Alemanha", "Argentina" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual é o principal torneio de tênis disputado na grama?",
+    "RespostaCorreta": "Wimbledon",
+    "Alternativas": [ "US Open", "Australian Open", "Roland Garros" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual lutador é conhecido como 'The Notorious'?",
+    "RespostaCorreta": "Conor McGregor",
+    "Alternativas": [ "Anderson Silva", "Khabib Nurmagomedov", "Jon Jones" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Em que cidade foram realizados os Jogos Olímpicos de 2016?",
+    "RespostaCorreta": "Rio de Janeiro",
+    "Alternativas": [ "Tóquio", "Londres", "Pequim" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quem é o maior medalhista olímpico da história?",
+    "RespostaCorreta": "Michael Phelps",
+    "Alternativas": [ "Usain Bolt", "Mark Spitz", "Ryan Lochte" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual país criou o rugby?",
+    "RespostaCorreta": "Inglaterra",
+    "Alternativas": [ "Irlanda", "Austrália", "Nova Zelândia" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual é o nome do estádio do Barcelona?",
+    "RespostaCorreta": "Camp Nou",
+    "Alternativas": [ "Bernabéu", "Allianz Arena", "San Siro" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual é o principal evento mundial de ciclismo?",
+    "RespostaCorreta": "Tour de France",
+    "Alternativas": [ "Giro d'Italia", "Vuelta a España", "Paris–Roubaix" ],
+    "Pontos": 15
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quem é conhecido como 'Fenômeno' no futebol?",
+    "RespostaCorreta": "Ronaldo",
+    "Alternativas": [ "Ronaldinho Gaúcho", "Romário", "Neymar" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual país tem mais títulos da NBA entre equipes?",
+    "RespostaCorreta": "Estados Unidos",
+    "Alternativas": [ "Canadá", "México", "Nenhum outro país participa" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quem venceu a Copa Libertadores de 2021?",
+    "RespostaCorreta": "Palmeiras",
+    "Alternativas": [ "Flamengo", "Atlético-MG", "River Plate" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual tenista detém mais títulos de Grand Slam no masculino até 2024?",
+    "RespostaCorreta": "Novak Djokovic",
+    "Alternativas": [ "Roger Federer", "Rafael Nadal", "Andy Murray" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual é o nome da competição nacional de futebol da Inglaterra?",
+    "RespostaCorreta": "Premier League",
+    "Alternativas": [ "La Liga", "Serie A", "Bundesliga" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "O que significa 'KO' nas lutas?",
+    "RespostaCorreta": "Nocaute",
+    "Alternativas": [ "Knock Off", "Kicking Out", "Kick Over" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Em qual esporte atua o atleta Gabriel Medina?",
+    "RespostaCorreta": "Surfe",
+    "Alternativas": [ "Skate", "Natação", "Triatlo" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual é o principal campeonato de clubes da Europa?",
+    "RespostaCorreta": "Liga dos Campeões",
+    "Alternativas": [ "Liga Europa", "Conference League", "Premier Cup" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual esporte utiliza o termo 'strike'?",
+    "RespostaCorreta": "Boliche",
+    "Alternativas": [ "Beisebol", "Golfe", "Críquete" ],
+    "Pontos": 5
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quem é o maior campeão da Fórmula Indy?",
+    "RespostaCorreta": "A.J. Foyt",
+    "Alternativas": [ "Helio Castroneves", "Scott Dixon", "Rick Mears" ],
+    "Pontos": 20
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Quantos rounds tem uma luta profissional de boxe?",
+    "RespostaCorreta": "12",
+    "Alternativas": [ "10", "8", "15" ],
+    "Pontos": 10
+  },
+  {
+    "Categoria": "Esportes",
+    "PerguntaTexto": "Qual país venceu a primeira Copa do Mundo, em 1930?",
+    "RespostaCorreta": "Uruguai",
+    "Alternativas": [ "Brasil", "Argentina", "Itália" ],
+    "Pontos": 10
+  }
+]
